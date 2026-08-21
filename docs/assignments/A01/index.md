@@ -9,11 +9,12 @@ Task A: The first portfolio I decided to analyzed was on Github,(https://nhoong.
 The second portfolio that I have decided to analyze was also from Github (https://sanudas22.github.io/). After tapping through his portfolio he has neatly organized all of his tabs for his work experience and projects at the top of the screen, naming and labeling them to make it easier for other readers navigating his page. You can visit all of his projects that he has separately put in individual Github project websites, giving info of how he completed the projects and what they mean to him. He explains and gives descriptions of each of the projects and goes more in depth about each of projects and the choices he had to make along the way. Lastly I believe that he has created a creative and pleasing portfolio that gives everything you everything you need to know about him and what he does for a living.  
 
 Task B: Product Analysis 
-Product: 
+Product: Swingline Stapler
 
 A): Primary function:
 
 The primary function of this Stapler is to transmit and amplify an applied input force through a lever mechanism to drive a staple through a material.
+
 B): Governing Model
 
 The stapler's primary mechanical behavior is governed by the principle of static equilibrium and the law of the lever.
@@ -25,17 +26,30 @@ For a lever in static equilibrium the equation is:
 
 Where: 
 Fin = The input force that is being applied by the user of the stapler. 
+
 Lin = distance from the pivot to the point where the input force applied by the user of the stapler. 
+
 Fout = output force applied to the staple
+
 Lout = distance from the pivot to the staple driver
 
 ii.  State one assumption that makes the model valid for this product.
+
 One assumption that I have thought of was that the pivot (hinge) is frictionless, so no energy is lost due to friction, the top lever can be moved freely and will always have a enough energy to plant a staple in a material when a force applied by a user. For this assumption, the input moment equals the output moment, allowing the lever equation above to accurately describe the stapler's mechanical behavior.
 
 C. Components
+
 Top Arm (Lever) 
 <img width="3000" height="2000" alt="20260821_144542" src="https://github.com/user-attachments/assets/59ec75f1-062d-4d52-87dd-94a59e71b26f" />
 Function: The long handle increases the distance from the pivot, which gives the stapler mechanical advantage. This lets a small input force create a larger force to drive the staple.
+
+Metal Base 
+<img width="3000" height="4000" alt="20260821_144609" src="https://github.com/user-attachments/assets/77f28c2e-38c4-46a2-9cb4-60380784d1c9" />
+Function: The flat, rigid base supports the paper and keeps the staple aligned. The anvil bends the staple legs after they pass through the paper.
+
+Hinge (connecting base and top arm)
+<img width="4000" height="3000" alt="20260821_144552" src="https://github.com/user-attachments/assets/0151665a-fa9b-4bce-bda2-9f34fac0c802" />
+Function: The round hinge allows the top arm to rotate. Its position creates the pivot point that makes the top arm work, keeping the base still while letting the user to input force on the top arm.
 
 
 ## Decide
