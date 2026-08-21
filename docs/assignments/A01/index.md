@@ -25,6 +25,7 @@ For a lever in static equilibrium the equation is:
 (Fin)(Lin) = (Fout)(Lout)
 
 Where: 
+
 Fin = The input force that is being applied by the user of the stapler. 
 
 Lin = distance from the pivot to the point where the input force applied by the user of the stapler. 
@@ -44,11 +45,11 @@ Top Arm (Lever)
 Function: The long handle increases the distance from the pivot, which gives the stapler mechanical advantage. This lets a small input force create a larger force to drive the staple.
 
 Metal Base 
-<img width="3000" height="4000" alt="20260821_144609" src="https://github.com/user-attachments/assets/77f28c2e-38c4-46a2-9cb4-60380784d1c9" />
+<img width="2000" height="3000" alt="20260821_144609" src="https://github.com/user-attachments/assets/77f28c2e-38c4-46a2-9cb4-60380784d1c9" />
 Function: The flat, rigid base supports the paper and keeps the staple aligned. The anvil bends the staple legs after they pass through the paper.
 
 Hinge (connecting base and top arm)
-<img width="4000" height="3000" alt="20260821_144552" src="https://github.com/user-attachments/assets/0151665a-fa9b-4bce-bda2-9f34fac0c802" />
+<img width="3000" height="2000" alt="20260821_144552" src="https://github.com/user-attachments/assets/0151665a-fa9b-4bce-bda2-9f34fac0c802" />
 Function: The round hinge allows the top arm to rotate. Its position creates the pivot point that makes the top arm work, keeping the base still while letting the user to input force on the top arm.
 
 
