@@ -8,6 +8,22 @@ Task A: The first portfolio I decided to analyzed was on Github,(https://nhoong.
 
 The second portfolio that I have decided to analyze was also from Github (https://sanudas22.github.io/). After tapping through his portfolio he has neatly organized all of his tabs for his work experience and projects at the top of the screen, naming and labeling them to make it easier for other readers navigating his page. You can visit all of his projects that he has separately put in individual Github project websites, giving info of how he completed the projects and what they mean to him. He explains and gives descriptions of each of the projects and goes more in depth about each of projects and the choices he had to make along the way. Lastly I believe that he has created a creative and pleasing portfolio that gives everything you everything you need to know about him and what he does for a living.  
 
+Task B: Product Analysis 
+Product: 
+
+A): Primary function:
+
+B): Governing Model
+i: State the model and identify its variables 
+
+
+
+
+
+
+
+
+
 ## Decide
 
 
