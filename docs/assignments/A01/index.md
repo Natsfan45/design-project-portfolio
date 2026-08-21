@@ -15,10 +15,14 @@ A): Primary function:
 
 The primary function of this Stapler is to transmit and amplify an applied input force through a lever mechanism to drive a staple through a material.
 B): Governing Model
+
 The stapler's primary mechanical behavior is governed by the principle of static equilibrium and the law of the lever.
+
 i: State the model and identify its variables
+
 For a lever in static equilibrium the equation is:
 (Fin)(Lin) = (Fout)(Lout)
+
 Where: 
 Fin = The input force that is being applied by the user of the stapler. 
 Lin = distance from the pivot to the point where the input force applied by the user of the stapler. 
