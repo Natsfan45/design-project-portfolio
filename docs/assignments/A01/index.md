@@ -20,11 +20,22 @@ i: State the model and identify its variables
 
 
 
-
-
-
-
 ## Decide
+
+1.  Homepage Identity : 
+
+2.  One Intentional Customization : 
+
+3.  Your Documentation Standard : 
+
+
+
+
+
+
+
+
+
 
 
 ## Communicate
