@@ -12,12 +12,25 @@ Task B: Product Analysis
 Product: 
 
 A): Primary function:
-
+The primary function of this Stapler is to transmit and amplify an applied input force through a lever mechanism to drive a staple through a material.
 B): Governing Model
-i: State the model and identify its variables 
+The stapler's primary mechanical behavior is governed by the principle of static equilibrium and the law of the lever.
+i: State the model and identify its variables
+For a lever in static equilibrium the equation is:
+(Fin)(Lin) = (Fout)(Lout)
+Where: 
+Fin = The input force that is being applied by the user of the stapler. 
+Lin = distance from the pivot to the point where the input force applied by the user of the stapler. 
+Fout = output force applied to the staple
+Lout = distance from the pivot to the staple driver
 
+ii.  State one assumption that makes the model valid for this product.
+One assumption that I have thought of was that the pivot (hinge) is frictionless, so no energy is lost due to friction, the top lever can be moved freely and will always have a enough energy to plant a staple in a material when a force applied by a user. For this assumption, the input moment equals the output moment, allowing the lever equation above to accurately describe the stapler's mechanical behavior.
 
-
+C. Components
+Top Arm (Lever) 
+<img width="3000" height="2000" alt="20260821_144542" src="https://github.com/user-attachments/assets/59ec75f1-062d-4d52-87dd-94a59e71b26f" />
+Function: The long handle increases the distance from the pivot, which gives the stapler mechanical advantage. This lets a small input force create a larger force to drive the staple.
 
 
 ## Decide
