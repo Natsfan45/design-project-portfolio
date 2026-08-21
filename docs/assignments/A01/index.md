@@ -12,6 +12,7 @@ Task B: Product Analysis
 Product: 
 
 A): Primary function:
+
 The primary function of this Stapler is to transmit and amplify an applied input force through a lever mechanism to drive a staple through a material.
 B): Governing Model
 The stapler's primary mechanical behavior is governed by the principle of static equilibrium and the law of the lever.
